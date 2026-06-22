@@ -1,0 +1,6 @@
+{
+  "name": "Shivam Yadav Portfolio",
+  "description": "An interactive, ultra-polished, glassmorphic portfolio for Shivam Yadav, featuring futuristic 3D effects, interactive layout, custom cursor, and deep tech aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
