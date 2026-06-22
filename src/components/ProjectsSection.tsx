@@ -12,9 +12,9 @@ export default function ProjectsSection() {
       id: "traffic",
       title: "Traffic Sign Recognition System",
       description: "High-accuracy intelligent mobile application designed to detect, recognize, and narrate traffic signs in real-time.",
-      longDescription: "A state-of-the-art mobile application utilizing deep Convolutional Neural Networks (CNN) to recognize traffic signage with split-second inference speeds. Built on an optimized computer vision pipeline, it processes live camera frame arrays, filters anomalies, highlights critical traffic directives, and converts detected classifications to spoken audio warnings for driver safety assistance.",
+      longDescription: "A state-of-the-art Android application engineered in Java utilizing deep Convolutional Neural Networks optimized inside a TensorFlow Lite (TFLite) mobile model for high-efficiency, real-time on-device inference. Features an optimized computer vision frame pipeline that parses live camera streams, handles light variance anomalies, classifies crucial traffic signs, and converts them to audible vocal warnings for active driver assistance.",
       image: "Eye",
-      tags: ["Python", "TensorFlow & CNN", "Mobile App", "OpenCV"],
+      tags: ["Java (Android)", "TensorFlow Lite", "Android SDK", "Computer Vision"],
       githubUrl: "https://github.com/shivam-yadav/traffic-sign-recognition",
       demoUrl: "https://github.com/shivam-yadav/traffic-sign-recognition",
       stats: [
