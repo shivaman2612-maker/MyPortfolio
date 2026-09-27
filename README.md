@@ -6,9 +6,9 @@
 
 Passionate about building scalable web applications, AI-powered solutions, and real-world software products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://yourportfolio.com](https://shivam-yadav-portfolio-601486015294.asia-southeast1.run.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://shivam-yadav-portfolio-601486015294.asia-southeast1.run.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shivaman2612-maker)
 
 </div>
 
